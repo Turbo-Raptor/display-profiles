@@ -39,8 +39,13 @@ git submodule update --init --recursive
 
 - White point: D65 (6500K)
 - Target gamma: 2.2
+- White level: 120.00 cd/m²
+- Profile quality: High
+- Number of patches: 2069
+- Testchart: Auto-optimized
+- Calibration speed: Low
+- Spectral correction: LCD White LED family (AC, LG, Samsung)
 - Calibration tool: Display Plus HL (Calibrite)
-- Calibrated: 2025-06-04 02:24
 
 ## License
 
