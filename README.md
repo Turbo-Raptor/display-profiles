@@ -5,8 +5,9 @@ A collection of ICC color profiles for my commonly used external monitors. This 
 ## Repository Structure
 
 ```
-├── profiles/
-│   └── acer-xb271hu-asnvpm0n50bd.icc
+├── profiles
+│   ├── acer-xb271hu-asnvpm0n50bd.icc
+│   └── acer-xb271hu-asof61g3vytd.icc
 └── README.md
 ```
 
@@ -34,6 +35,7 @@ git submodule update --init --recursive
 | Manufacturer | Model | Serial | Profile | Calibrated |
 |--------------|-------|--------|---------|------------|
 | Acer Technologies | XB271HU | ASNVPM0n50bd | `acer-xb271hu-asnvpm0n50bd.icc` | 2025-06-04 02:24 |
+| Acer Technologies | XB271HU | ASOF6lg3vYTd | `acer-xb271hu-asof61g3vytd.icc` | 2025-06-04 23:58 |
 
 ## Calibration Settings
 
